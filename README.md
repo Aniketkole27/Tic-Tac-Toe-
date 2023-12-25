@@ -1,2 +1,4 @@
 # Tic-Tac-Toe-Game
-This is a game. which we will play in our childhood.
+This is ths simple, Tic-Tac-Toe Game
+<br>
+Author - Aniket Kole
